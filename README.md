@@ -1,9 +1,9 @@
 # OOPS_CourseProject
 
-## Event Management System
+## Sport Event Management System
 
 ### Overview
-The Event Management System is a C++ application designed to handle various aspects of event management. It includes functionality for creating events, adding participants, issuing tickets, setting schedules, recording results, and displaying event details. The system uses Object-Oriented Programming (OOP) principles and includes features like factory patterns and singleton design patterns.
+The Sport Event Management System is a C++ application designed to handle various aspects of event management. It includes functionality for creating events, adding participants, issuing tickets, setting schedules, recording results, and displaying event details. The system uses Object-Oriented Programming (OOP) principles and includes features like factory patterns and singleton design patterns.
 
 ### Features
 - **Event Creation**: Create new events with unique IDs, names, and dates.
